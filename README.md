@@ -1,4 +1,35 @@
 # eSanjeevaniOPD
+In this project,I have created a Smart Hospital Management System application. Through this management system app, we can deal with the management of the employees working in the hospital in a much simpler way.
+<br><br>
+
+In this project,  we have three different user interfaces<br>
+-->Admin User Interface<br>
+-->Receptionist User Interface <br>
+--> Doctor User Interface.
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+The Admin User Interface :<br>
+This user interface will deal with the management of the receptionists and doctors working in the hospital.<br>
+
+The Receptionist User Interface :<br>
+This user interface will deal with the management of the patients.<br>
+
+The Doctor User Interface :<br>
+This user interface will deal with the management of the appointments of the patients.<br>
+
+
+
+
 <b>1.LOGIN SCREEN MODULE</b> </hr><br><br>
 <b>Loading And Login screen:</b></br> </br> 
 ![image](https://github.com/UtkarshRawat1710/eSanjeevaniOPD/assets/124810125/933d3e7a-f5e4-41cd-a88d-4f3cf2dad55b)</br> </br>
