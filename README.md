@@ -19,7 +19,17 @@ In this module, the receptionist will verify the mobile number of the patient by
 
 ![image](https://github.com/UtkarshRawat1710/eSanjeevaniOPD/assets/124810125/6057a736-49fd-4f06-9600-a5aadd76e3dd)![image](https://github.com/UtkarshRawat1710/eSanjeevaniOPD/assets/124810125/d5e10b35-d52c-4245-ba49-468bcf40684c)
 <br> <br>
+<b>4.DOCTOR  MODULE : </b> </hr><br><br>
 
+In this module, The doctor will have two different functionality to manage the patient’s appointment which are either the doctor can view the patient’s conformed appointment or the doctor can schedule the patient’s appointment request.<br> <br>
+![image](https://github.com/UtkarshRawat1710/eSanjeevaniOPD/assets/124810125/4324b273-716b-4347-8cc7-1f8da8cab114)<br> <br>
+<b>4. CONFORM APPOINTMENT MODULE :</b> </hr><br><br>
+
+
+In this module, the doctor will schedule the patient appointment’s request. The patient’s detail will be auto-generated. After an appointment has been confirmed. The Appointment details of that patient will be sent to his mobile number.<br> <br>
+
+
+![image](https://github.com/UtkarshRawat1710/eSanjeevaniOPD/assets/124810125/8a48a8fe-0753-4afb-9f4a-94bef16bb3cd)![image](https://github.com/UtkarshRawat1710/eSanjeevaniOPD/assets/124810125/9f86eb51-570f-471c-80a0-107b6945ffa6)
 
 
 
